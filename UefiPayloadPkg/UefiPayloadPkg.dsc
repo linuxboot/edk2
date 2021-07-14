@@ -343,6 +343,7 @@
 
   gUefiCpuPkgTokenSpaceGuid.PcdCpuMaxLogicalProcessorNumber|$(MAX_LOGICAL_PROCESSORS)
 
+  gUefiPayloadPkgTokenSpaceGuid.PcdVTdPolicyPropertyMask|3
 
 ################################################################################
 #
